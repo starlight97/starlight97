@@ -1,7 +1,7 @@
 ### Hi there 👋
 blog : https://starlightbox.tistory.com/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starlight97&layout=compact)](https://github.com/)
 
 <!--
 **starlight97/starlight97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
